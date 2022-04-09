@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyTasks</string>
+    <string name="hint_text">e.g., Buy dog food </string>
+    <string name="calendar_text_view">Calendar</string>
+    <string name="image_calendar">Calendar</string>
+    <string name="today_text_chip">Today</string>
+    <string name="image_priority">Priority</string>
+    <string name="image_save">Save</string>
+    <string name="due_date_text_view">Due Date</string>
+    <string name="save_text_view">Save</string>
+    <string name="priority_text_view">Priority</string>
+    <string name="tomorrow_text_chip">Tomorrow</string>
+    <string name="next_week_text_chip">Next Week</string>
+    <string name="radio_button_high">High</string>
+    <string name="radio_button_medium">Medium</string>
+    <string name="radio_button_low">Low</string>
+    <string name="textview">TextView</string>
+    <string name="chip_today">Today</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
